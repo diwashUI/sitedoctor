@@ -17,7 +17,7 @@ const FAQ = [
   },
   {
     q: "What does Pro add?",
-    a: "One-click PDF export of any report — handy for sharing with a client or your team — plus priority re-scans. Pay once, yours forever.",
+    a: "One-click PDF export of any report — handy for sharing with a client or your team. Pay once, yours forever.",
   },
   {
     q: "Why one-time instead of a subscription?",
@@ -36,7 +36,6 @@ const FREE_FEATURES = [
 const PRO_FEATURES = [
   "Everything in Free",
   "PDF export of any report",
-  "Priority re-scans",
   "Pay once, yours forever",
 ];
 
