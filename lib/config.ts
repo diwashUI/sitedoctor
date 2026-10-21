@@ -8,8 +8,8 @@ export const SITE_URL = "https://sitedoctorapp.vercel.app";
 // Flip CHECKOUT_READY to true once PADDLE_CLIENT_TOKEN / PADDLE_PRICE_ID
 // hold the real values.
 export const PADDLE_CLIENT_TOKEN = "";
-export const PADDLE_PRICE_ID = "REPLACE_WITH_REAL_PRICE_ID";
-export const CHECKOUT_READY = false;
+export const PADDLE_PRICE_ID = "pri_01m5fjqrqvzg2ve2qcm1dg12s6";
+export const CHECKOUT_READY = true;
 
 // ---------------------------------------------------------------------------
 // Display-ad infrastructure (secondary revenue stream).
